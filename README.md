@@ -1,6 +1,6 @@
 Kernel Methods in Machine Learning
 ----------------------------------
-### *African Master's in Machine Intelligence (AMMI), May 2022*
+### *African Master's in Machine Intelligence (AMMI), May 2020*
 
 ### Table of contents
 
